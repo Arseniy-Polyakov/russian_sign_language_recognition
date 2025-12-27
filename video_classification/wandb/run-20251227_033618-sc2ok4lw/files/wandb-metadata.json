@@ -1,0 +1,28 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "CPython 3.13.5",
+  "startedAt":  "2025-12-27T00:36:18.682682Z",
+  "program":  "c:\\Users\\a.polyakov\\Desktop\\Russian Sign Language Recognition\\russian_sign_language_recognition\\video_classification\\timesformer.ipynb",
+  "codePath":  "c:\\Users\\a.polyakov\\Desktop\\Russian Sign Language Recognition\\russian_sign_language_recognition\\video_classification\\timesformer.ipynb",
+  "codePathLocal":  "timesformer.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Arseniy-Polyakov/russian_sign_language_recognition.git",
+    "commit":  "f7e68dcf48d56a365fa6d86b873b8132cb976faf"
+  },
+  "email":  "arseney02@mail.ru",
+  "root":  "c:\\Users\\a.polyakov\\Desktop\\Russian Sign Language Recognition\\russian_sign_language_recognition\\video_classification",
+  "host":  "cmdb-2760",
+  "executable":  "c:\\Users\\a.polyakov\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "254992707584",
+      "used":  "249339125760"
+    }
+  },
+  "memory":  {
+    "total":  "7949586432"
+  },
+  "writerId":  "57z1eu881fms060fwen8t4nai0ph0u1q"
+}

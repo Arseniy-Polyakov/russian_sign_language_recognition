@@ -7,7 +7,7 @@ def evaluate_function(texts_model: list, texts_target: list) -> list:
     bleu_final = bleu_score.compute(predictions=texts_model, references=texts_target)
     return bleu_final["bleu"]
 
-file_name = "statistics\\translation_deepseek.txt"
+file_name = "statistics\\translation_mt5_small.txt"
 with open(file_name, "rt", encoding="utf-8") as file:
     texts_model = [line.replace("\n", "") for line in file]
 
